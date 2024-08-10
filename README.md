@@ -10,9 +10,10 @@ An App that can convert paintings into realistic looking images (offline) , with
 - can save and import images
 
 ## Screenshots
-
-<video width="640" height="360" controls>
-  <source src="video.mp4" type="video/mp4">
+ 
+<video width="720" height="1280" controls>
+  <source src="Paint2Real.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
