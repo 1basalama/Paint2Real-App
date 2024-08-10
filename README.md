@@ -1,7 +1,7 @@
 # Paint2Real-App
 An App that can convert paintings into realistic looking images (offline) , with the power of Generative Adverserial Networks (GAN)
 ## Download Link
-[download](https://github.com/1basalama/myApps/raw/main/CodePhone.apk)
+[download](https://t.me/AB_Apps/8/15)
 ## Description
 
 
@@ -11,51 +11,8 @@ An App that can convert paintings into realistic looking images (offline) , with
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td>
-      <img src="screenshots/Screenshot1.jpg" alt="Screenshot 1" width="200px" />
-      <br />
-      <em></em>
-    </td>
-    <td>
-      <img src="screenshots/Screenshot2.jpg" alt="Screenshot 2" width="200px" />
-      <br />
-      <em></em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/Screenshot3.jpg" alt="Screenshot 3" width="200px" />
-      <br />
-      <em></em>
-    </td>
-    <td>
-      <img src="screenshots/Screenshot4.jpg" alt="Screenshot 4" width="200px" />
-      <br />
-      <em></em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/Screenshot5.jpg" alt="Screenshot 5" width="200px" />
-      <br />
-      <em></em>
-    </td>
-    <td>
-      <img src="screenshots/Screenshot6.jpg" alt="Screenshot 6" width="200px" />
-      <br />
-      <em></em>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="screenshots/Screenshot7.jpg" alt="Screenshot 7" width="200px" />
-      <br />
-      <em></em>
-    </td>
-    
-  </tr>
-</table>
-
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
