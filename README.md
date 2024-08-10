@@ -13,4 +13,6 @@ An App that can convert paintings into realistic looking images (offline) , with
 
 ### Demo
 
-Paint2Real.mp4
+
+https://github.com/user-attachments/assets/4c75eb81-bcf1-4c07-9f30-fa3022648cb9
+
