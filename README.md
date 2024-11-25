@@ -1,7 +1,7 @@
 # Paint2Real-App
 An App that can convert paintings into realistic looking images (offline) , with the power of Generative Adverserial Networks (GAN)
 ## Download Link
-[download](https://t.me/AB_Apps/8/15)
+[download](https://play.google.com/store/apps/details?id=com.basalama.paint2real&pcampaignid=web_share)
 ## Description
 
 
